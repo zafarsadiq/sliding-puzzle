@@ -1,5 +1,6 @@
 # sliding puzzle
 This is a simple sliding puzzle game developed for my daughters.
+
 [demo](http://devhunt.net/sliding-puzzle/)
 ### Install and run
 ```
@@ -12,4 +13,4 @@ npm install
 npm run server
 
 ```
-browse http://localhost:8080/
+Now browse `http://localhost:8080/`
